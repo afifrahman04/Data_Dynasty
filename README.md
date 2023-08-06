@@ -2,7 +2,7 @@
 # STAGE 2
 ## Dataset
 
-- WA*Fn-UseC*-HR-Employee-Attrition
+- HR-Employee-Attrition
 
 ### Deskripsi
 
@@ -24,4 +24,3 @@
 
 
 
-### KESIMPULAN
