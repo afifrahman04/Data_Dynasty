@@ -72,19 +72,3 @@ Hasil Observasi Multivariate Analysis:
 
 ## Business Insight
 
-Insight:
-
-- Dominasi usia si bawah 35 tahun adalah fase karyawan mencari kesempatan baru berkarir bidang lain
-- Tekanan menghadapi Overtime mengakibatkan karyawan belum memiliki kemampuan yang cukup untuk menyelesaikan pekerjaan secara efisien mendorong mencari kesempatan bekerja di bidang lainnya.
-- Karyawan dengan Monthly Income yang rendah cenderung merasa tidak puas dan cenderung mencari alternatif income yang lebih baik.
-- kenyamanan lingkungan kerja, kepuasan pekerjaan, dan hubungan dengan rekan kerja yang kurang harmonis juga menjadi faktor yang signifikan.
-- Dalam mencari asal karyawan yang Attrisi, ditemukan bahwa banyak yang attrisi berasal dari departemen Sales dengan Job Level yang lebih rendah, khususnya Sales Representatif.
-
-Business Recommendation:
-
-- Keseimbangan Jam Kerja : Memberikan kemudahan cuti, penyesuaian waktu kerja, kebijakan bekerja fleksibel, atau bekerja secara online dapat membantu menciptakan keseimbangan antara pekerjaan dan kehidupan pribadi karyawan. Ini dapat mengurangi tingkat stres dan kelelahan
-- Penyesuaian Kompensasi dan Pendapatan : Menyesuaikan gaji dengan tingkat kesulitan pekerjaan dan mengakui upaya karyawan dalam melakukan overtime dapat memberikan apresiasi dan penghargaan yang lebih bagi karyawan
-- Program Pengembangan Karyawan : Memberikan pelatihan dan program pengembangan karyawan adalah investasi yang berharga bagi perusahaan. Dengan membantu karyawan mengembangkan keterampilan dan kompetensi mereka, perusahaan dapat mengefisiensi kinerja karyawan dan meningkatkan kepuasan
-- Peningkatkan kualitas lingkungan kerja dan meningkatkan kepuasan dan hubungan antara karyawan : Melakukan survei kepuasan karyawan secara berkala untuk memahami masalah dan kebutuhan karyawan dalam lingkungan kerja, serta mengadakan kegiatan sosial atau tim building untuk memperkuat hubungan antara karyawan. Dengan melakukan ini masalah kepuasan lingkungan dapat terus dikontrol dan menghindari karyawan dari burnout serta hubungan antar karyawan akan meningkat.
-- Perusahaan perlu memeriksa secara khusus kondisi kerja dan motivasi di departemen Sales dan memahami penyebab tingginya tingkat Attrition pada tingkat jabatan ini : Melakukan wawancara atau survei dengan karyawan di departemen Sales untuk mengidentifikasi masalah yang mungkin dialami oleh Sales Representative dan memonitor kondisi kerja, beban kerja, dan reward system untuk memastikan keseimbangan yang baik dan insentif yang sesuai bagi Sales Representative. 
-
