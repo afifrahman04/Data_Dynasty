@@ -71,4 +71,4 @@ Hasil Observasi Multivariate Analysis:
 - Terdapat kekosongan nilai korelasi di kolom EmployeeCount dan StandardHours, dikarena nilai dalam kolom tersebut konstan.
 
 ## Business Insight
-
+Awal pengerjaan stage-2
