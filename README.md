@@ -15,10 +15,10 @@
 
 
 ### 1. Data Cleansing
-A. Handle missing values = tidak ada data kosong
-B. Handle duplicated data = tidak ada data duplicate
-C. Handle outliers = Handle outlier akan dilakukanpada data training.
-D. Handle class imbalance = Handle class imbalance akandilakukan pada data training
+A. Handle missing values = tidak ada data kosong   
+B. Handle duplicated data = tidak ada data duplicate    
+C. Handle outliers = Handle outlier akan dilakukanpada data training.    
+D. Handle class imbalance = Handle class imbalance akandilakukan pada data training   
 
 
 ### 2. Feature Engineering
